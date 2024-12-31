@@ -4,3 +4,6 @@ bot.log
 # Environments
 .env
 venv/
+.venv
+data_soul.sql
+komiklovers_db.sql
